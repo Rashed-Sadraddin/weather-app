@@ -12,19 +12,19 @@ const Home = (props) => {
           </div>
           <div className="city">
             <Link to="/america">
-              <h1>america</h1>{" "}
+              <h1>America</h1>{" "}
             </Link>
           </div>
           <div className="city">
             <Link to="/london">
               {" "}
-              <h1>london</h1>
+              <h1>UK</h1>
             </Link>{" "}
           </div>
           <div className="city">
             <Link to="/dubai">
               {" "}
-              <h1>dubai</h1>
+              <h1>UAE</h1>
             </Link>{" "}
           </div>
         </b>{" "}
